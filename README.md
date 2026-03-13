@@ -1,4 +1,4 @@
-# Aniversários App Documentation
+# Aniversários App Documentations
 
 ## Overview
 The Aniversários app is designed to help users manage and celebrate their loved ones' birthdays. It provides an intuitive interface for tracking upcoming birthdays and sending reminders.
